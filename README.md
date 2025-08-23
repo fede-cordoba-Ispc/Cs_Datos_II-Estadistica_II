@@ -1,4 +1,4 @@
-# Materias Ciencia de Datos II y Estadistica y Exploracion de Datos II - 2025
+# Materias Ciencia de Datos II y Estadistica y Exploracion de Datos II
 
 Repositorio creado para la gestión del trabajo en grupo y la carga de evidencias de las materias Ciencias de datos II y Estadistica y exploracion de datos II de la **Tecnicatura Superior en Ciencia de Datos del ISPC**.
 
