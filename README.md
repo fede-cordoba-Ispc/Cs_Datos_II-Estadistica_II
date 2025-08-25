@@ -11,8 +11,8 @@ Repositorio creado para la gestión del trabajo en grupo y la carga de evidencia
 
 ## Nombre del Proyecto
 
-**Proyecto A.N.D.A (ANÁLISIS DE NAVEGACIÓN DIGITAL DE ADOLESCENTES)
-**
+**Proyecto A.N.D.A (ANÁLISIS DE NAVEGACIÓN DIGITAL DE ADOLESCENTES)**
+
 
 ---
 
