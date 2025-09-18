@@ -22,7 +22,7 @@ Repositorio creado para la gestión del trabajo en grupo y la carga de evidencia
 - Hebe Pereyra  
 - Florencia Andrada  
 - Federico Córdoba  
-- Noelia Soto  
+- Noelia Soto
 - David Juncos
 
 ---
